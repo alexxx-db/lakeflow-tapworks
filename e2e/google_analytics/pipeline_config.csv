@@ -1,2 +1,2 @@
-project_name,source_catalog,source_schema,tables,target_catalog,target_schema,connection_name,prefix,subgroup,schedule,pause_status
-tapworks_ga4,gcp-sandbox-field-eng,analytics_123123123,events,tapworks,ga4,ga4_sandbox_conn,ga4_test,01,0 */6 * * *,PAUSED
+project_name,source_catalog,source_schema,tables,target_catalog,target_schema,pipeline_catalog,pipeline_schema,connection_name,prefix,subgroup,schedule,pause_status
+tapworks_ga4,gcp-sandbox-field-eng,analytics_123123123,events,tapworks,ga4,tapworks,ga4,ga4_sandbox_conn,ga4_test,01,0 */6 * * *,PAUSED
