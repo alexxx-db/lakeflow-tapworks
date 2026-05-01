@@ -1,3 +1,3 @@
-project_name,source_database,source_schema,source_table_name,target_catalog,target_schema,target_table_name,prefix,subgroup,gateway_catalog,gateway_schema,connection_name,schedule,pause_status
-tapworks_test,vaevee3u,lfcddemo,intpk,tapworks,tapworks,intpk,test,01,tapworks,tapworks,lfcddemo-azure-sqlserver,*/15 * * * *,PAUSED
-tapworks_test,vaevee3u,lfcddemo,dtix,tapworks,tapworks,dtix,test,01,tapworks,tapworks,lfcddemo-azure-sqlserver,*/15 * * * *,PAUSED
+project_name,source_database,source_schema,source_table_name,target_catalog,target_schema,pipeline_catalog,pipeline_schema,target_table_name,prefix,subgroup,gateway_catalog,gateway_schema,connection_name,schedule,pause_status
+tapworks_test,vaevee3u,lfcddemo,intpk,tapworks,tapworks,tapworks,tapworks,intpk,test,01,tapworks,tapworks,lfcddemo-azure-sqlserver,*/15 * * * *,PAUSED
+tapworks_test,vaevee3u,lfcddemo,dtix,tapworks,tapworks,tapworks,tapworks,dtix,test,01,tapworks,tapworks,lfcddemo-azure-sqlserver,*/15 * * * *,PAUSED
