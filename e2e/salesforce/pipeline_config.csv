@@ -1,4 +1,0 @@
-project_name,source_database,source_schema,source_table_name,target_catalog,target_schema,pipeline_catalog,pipeline_schema,target_table_name,connection_name,prefix,subgroup,schedule,pause_status
-tapworks_sfdc,Salesforce,objects,Account,tapworks,salesforce,tapworks,salesforce,account,sfdc-pravin-dabs,sfdc_test,01,0 */6 * * *,PAUSED
-tapworks_sfdc,Salesforce,objects,Contact,tapworks,salesforce,tapworks,salesforce,contact,sfdc-pravin-dabs,sfdc_test,01,0 */6 * * *,PAUSED
-tapworks_sfdc,Salesforce,objects,Opportunity,tapworks,salesforce,tapworks,salesforce,opportunity,sfdc-pravin-dabs,sfdc_test,01,0 */6 * * *,PAUSED

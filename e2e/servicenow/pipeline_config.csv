@@ -1,4 +1,0 @@
-project_name,source_database,source_schema,source_table_name,target_catalog,target_schema,pipeline_catalog,pipeline_schema,target_table_name,connection_name,prefix,subgroup,schedule,pause_status
-tapworks_snow,SERVICENOW,default,incident,tapworks,servicenow,tapworks,servicenow,incident,yas_service_now,snow_test,01,0 */6 * * *,PAUSED
-tapworks_snow,SERVICENOW,default,sys_user,tapworks,servicenow,tapworks,servicenow,sys_user,yas_service_now,snow_test,01,0 */6 * * *,PAUSED
-tapworks_snow,SERVICENOW,default,sc_req_item,tapworks,servicenow,tapworks,servicenow,sc_req_item,yas_service_now,snow_test,01,0 */6 * * *,PAUSED

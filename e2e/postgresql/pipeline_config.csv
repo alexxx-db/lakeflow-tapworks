@@ -1,3 +1,0 @@
-project_name,source_database,source_schema,source_table_name,target_catalog,target_schema,pipeline_catalog,pipeline_schema,target_table_name,prefix,subgroup,gateway_catalog,gateway_schema,connection_name,schedule,pause_status,slot_name,publication_name
-tapworks_pg,oigix9su,lfcddemo,intpk,tapworks,postgresql,tapworks,postgresql,intpk,pg_test,01,tapworks,postgresql,lfcddemo-azure-pg,*/15 * * * *,PAUSED,tapworks_pg_slot,databricks_publication
-tapworks_pg,oigix9su,lfcddemo,dtix,tapworks,postgresql,tapworks,postgresql,dtix,pg_test,01,tapworks,postgresql,lfcddemo-azure-pg,*/15 * * * *,PAUSED,tapworks_pg_slot,databricks_publication
